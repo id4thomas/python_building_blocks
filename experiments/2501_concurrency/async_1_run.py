@@ -1,3 +1,10 @@
+
+'''
+# 비동기 코드 실행테스트
+* event loop 생성, 가져오기
+* asyncio.run, create_task
+* wait, gather
+'''
 import asyncio
 import sys
 print(sys.version) # 3.12.1
